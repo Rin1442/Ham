@@ -80,7 +80,7 @@ h1 {
 }
 
 mark {
-  background-color: #ff0;
+  background-color: rgb(248, 248, 117);
   color: #000;
 }
 
@@ -232,7 +232,7 @@ textarea {
 }
 
 :root {
-  --background: #fcf8d8f5;
+  --background: #fbffd4f5;
 }
 
 html {
@@ -463,7 +463,7 @@ body {
   height: 120px;
   padding-top: 5px;
   border-radius: 0 0 15px 15px;
-  background: linear-gradient(to bottom, #78ed6c 0%, #78ed6c 99px, #49c237 100px, #49c237 100%);
+  background: linear-gradient(to bottom, #59d84b 0%, #59d84b 99px, #50ba3f 100px, #50ba3f 100%);
 }
 
 .tape-window {
