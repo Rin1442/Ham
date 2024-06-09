@@ -269,6 +269,22 @@ body {
   color: #231f20;
 }
 
+.under-tape {
+  position: absolute;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  font-family: "Homemade Apple", cursive;
+  font-weight: 800;
+  top: 100%;
+  left: 100px;
+  width: 300px;
+  height: 60px;
+  font-size: 20px;
+  color: #231f20;
+  
+}
+
 .header {
   text-align: right;
   padding: 20px 20px 0;
@@ -332,7 +348,7 @@ body {
   position: absolute;
   font-family: "Homemade Apple", cursive;
   font-size: 20px;
-  top: 10px;
+  top: 0px;
   left: 50px;
 }
 
