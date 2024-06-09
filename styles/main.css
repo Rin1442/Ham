@@ -342,8 +342,22 @@ body {
 .youtube{
   position:  relative;
   top: -60px;
+  right: 10px;
 }
 .name{
+  position: absolute;
+  font-family: "Homemade Apple", cursive;
+  font-size: 20px;
+  top: 0px;
+  left: 100px;
+}
+
+.instagram{
+  position:  relative;
+  top: -20px;
+  right: 105px;
+}
+.name2{
   position: absolute;
   font-family: "Homemade Apple", cursive;
   font-size: 20px;
