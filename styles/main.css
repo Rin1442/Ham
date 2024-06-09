@@ -272,11 +272,11 @@ body {
 
 .under-tape {
   position: absolute;
-  padding: 10px;
+  padding: 0px;
   display: flex;
   justify-content: center;
-  font-family: "Homemade Apple", cursive;
   font-weight: 800;
+  font-family: "Homemade Apple", cursive;
   top: 100%;
   left: 100px;
   width: 300px;
@@ -285,6 +285,15 @@ body {
   color: #231f20;
   
 }
+
+p { width:100%
+    text-align: center；
+    font-size: 20px;
+    color: #231f20;
+}
+
+#font1 {font-family: "Homemade Apple", cursive;}
+#font2 {font-family: "LXGW WenKai TC", cursive;}
 
 .header {
   text-align: right;
