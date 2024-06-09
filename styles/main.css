@@ -340,9 +340,9 @@ body {
   background-size: 100%;
 }
 .youtube{
-  position:  absolute;
+  position:  relative;
   top: -60px;
-  right: 750px;
+  right: 10px;
 }
 .name{
   position: absolute;
@@ -353,16 +353,16 @@ body {
 }
 
 .instagram{
-  position:  absolute;
+  position:  relative;
   top: -10px;
-  left: 640px;
+  right: 108px;
 }
 .name2{
   position: absolute;
   font-family: "Homemade Apple", cursive;
   font-size: 20px;
   top: 0px;
-  left: 105px;
+  left: 110px;
 }
 
 :root {
