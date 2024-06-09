@@ -4,7 +4,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-@media(min-width:700px){
+@media(min-width:650px){
   .display-in-mobile{
     display: none;
   }
