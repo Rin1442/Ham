@@ -4,7 +4,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-@media(min-width:650px){
+@media(min-width:700px){
   .display-in-mobile{
     display: none;
   }
@@ -347,9 +347,9 @@ body {
 }
 .name{
   position: absolute;
-  font-family: "Homemade Apple", cursive;
+  font-family: "Kalam", cursive;
   font-size: 20px;
-  top: 0px;
+  top: 5px;
   left: 110px;
 }
 
@@ -360,9 +360,9 @@ body {
 }
 .name2{
   position: absolute;
-  font-family: "Homemade Apple", cursive;
+  font-family: "Kalam", cursive;
   font-size: 20px;
-  top: 0px;
+  top: 10px;
   left: 110px;
 }
 
