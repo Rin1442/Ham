@@ -4,6 +4,18 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+@media(min-width:991px){
+  .display-in-mobile{
+    display: none;
+  }
+}
+
+@media(max-width:991px){
+  .display-in-desktop{
+    display: none;
+  }
+}
+
 body {
   margin: 0;
 }
