@@ -264,9 +264,10 @@ body {
   grid-row-start: 3;
   padding: 20px;
   display: flex;
+  right: 50px;
   justify-content: center;
   font-family: "Dancing Script", cursive;
-  font-weight: 700;
+  font-weight: 600;
   color: #231f20;
 }
 
